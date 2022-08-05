@@ -28,7 +28,7 @@
                       </li>
                   </div>
                 </div>
-              </nav>
+            </nav>
         </div>
     </div>
     @yield('content')
